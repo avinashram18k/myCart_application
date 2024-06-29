@@ -1,0 +1,12 @@
+D:\Projects\mycart\src\main\java\com\mycompany\mycart\entities\Product.java
+D:\Projects\mycart\src\main\java\com\mycompany\mycart\servlets\ProductOperationServlet.java
+D:\Projects\mycart\src\main\java\com\mycompany\mycart\servlets\RegisterServlet.java
+D:\Projects\mycart\src\main\java\com\mycompany\mycart\helper\FactoryProvider.java
+D:\Projects\mycart\src\main\java\com\mycompany\mycart\servlets\LogoutServlet.java
+D:\Projects\mycart\src\main\java\com\mycompany\mycart\dao\CategoryDao.java
+D:\Projects\mycart\src\main\java\com\mycompany\mycart\dao\UserDao.java
+D:\Projects\mycart\src\main\java\com\mycompany\mycart\entities\Category.java
+D:\Projects\mycart\src\main\java\com\mycompany\mycart\entities\User.java
+D:\Projects\mycart\src\main\java\com\mycompany\mycart\dao\ProductDao.java
+D:\Projects\mycart\src\main\java\com\mycompany\mycart\helper\Helper.java
+D:\Projects\mycart\src\main\java\com\mycompany\mycart\servlets\LoginServlet.java
